@@ -9,8 +9,8 @@ export default function Home() {
          aur log mehmaan-nawazi ke liye mashhoor hain.
       </p>
       <img 
-        src="hero.jpg" 
-        alt="hero image" 
+        src="lalian.jpg" 
+        alt="lalian image" 
         style={{ width: "200px", height: "auto" }} 
       />
     </section>
